@@ -2,12 +2,12 @@
     <h1>Aslamualikum</h1>
 
     <h2>C++ Calculator Project</h2>
-
-    <p>
+    <h2>start..</h2>
+    
         This is a simple calculator program written in C++.
         It performs basic arithmetic operations such as addition,
         subtraction, multiplication, and division.
-    </p>
+    
 
     <h3>Features</h3>
     <ul>
