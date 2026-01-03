@@ -2,32 +2,32 @@
    # Aslamualikum
 
   ##  C++ Calculator Project
-    ### start..
+   
     
         This is a simple calculator program written in C++.
         It performs basic arithmetic operations such as addition,
         subtraction, multiplication, and division.
     
 
-     ####Features
-    <ul>
-        <li>Addition</li>
-        <li>Subtraction</li>
-        <li>Multiplication</li>
-        <li>Division</li>
-    </ul>
+     ## Features
+    
+        Addition
+        Subtraction
+        Multiplication
+        Division
+    
 
-    <h3>How to Run</h3>
-    <ol>
-        <li>Compile the program using a C++ compiler (e.g., g++)</li>
-        <li>Run the executable file</li>
-        <li>Follow the on-screen instructions</li>
-    </ol>
+  ##  How to Run
+    
+        Compile the program using a C++ compiler
+        Run the executable file
+        Follow the on-screen instruction
+   
 
-    <p>
-        <strong>Language:</strong> C++ <br>
-        <strong>Author:</strong> Your Name
-    </p>
+   
+        Language: C++ 
+        Author : Faiz Anwar
+   
 
 
 
