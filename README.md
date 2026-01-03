@@ -1,15 +1,15 @@
 
-    <h1>Aslamualikum</h1>
+   # Aslamualikum
 
-    <h2>C++ Calculator Project</h2>
-    <h2>start..</h2>
+  ##  C++ Calculator Project
+    ### start..
     
         This is a simple calculator program written in C++.
         It performs basic arithmetic operations such as addition,
         subtraction, multiplication, and division.
     
 
-    <h3>Features</h3>
+     ####Features
     <ul>
         <li>Addition</li>
         <li>Subtraction</li>
