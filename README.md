@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>C++ Calculator</title>
-</head>
-<body>
 
     <h1>Aslamualikum</h1>
 
@@ -36,8 +29,7 @@
         <strong>Author:</strong> Your Name
     </p>
 
-</body>
-</html>
+
 
 
 
